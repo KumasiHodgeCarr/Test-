@@ -4,3 +4,4 @@
 
 #3 prentum út max tölu exitum svo
 
+print("Hallo")
